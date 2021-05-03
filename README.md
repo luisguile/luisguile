@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 #### - 🤔 I’m looking for help with javascript and back-end
 #### - 💬 Ask me about html and front-end basic 
 #### - 📫 How to reach me: on instagram: @Guilerockabilly 
-#### - 😄 Pronouns: he
+#### - 😄 Pronouns: he, his
 #### - ⚡ Fun fact: i know a very little of programming but i learn fast
 #### - sorry for the errors, i´m no good in english (i´m brazilian)
