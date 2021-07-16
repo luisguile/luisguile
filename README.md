@@ -13,9 +13,8 @@ Estudante em programação front-end
 <br/>
 Dev Júnior não atuante
 </p>
-
-//Github status 
+<!-- Github status --> 
 
 ## Você pode me achar aqui:
-//imgs de rede Social
+<!-- imgs de rede Social -->
 
