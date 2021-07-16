@@ -6,23 +6,16 @@
 Here are some ideas to get you started:
 -->
 
-<h2> 
-  Em construção
-</h2>
+## Em Construção 
 
-
-
-<h3> 
-  Atualmente ainda sou estudante
-</h3>
-
-
-<p> 
-  Linguagens onde estou  melhorando: HTML, CSS
+<p>
+Estudante em programação front-end
+<br/>
+Dev Júnior não atuante
 </p>
 
+//Github status 
 
+## Você pode me achar aqui:
+//imgs de rede Social
 
-<h2> 
-  Em construção
-</h2>
