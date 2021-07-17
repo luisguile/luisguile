@@ -14,8 +14,9 @@ Estudante em programação front-end
 Dev Júnior não atuante
 </p>
 <!-- Github status --> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?luisguile=anuraghazra&hide=contribs,prs)
 
-## Você pode me achar aqui:
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?luisguile=anuraghazra&hide=contribs,prs) -->
+
+<!--## Você pode me achar aqui: -->
 <!-- imgs de rede Social -->
 
