@@ -15,7 +15,7 @@ Dev Júnior não atuante
 </p>
 <!-- Github status --> 
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?luisguile=anuraghazra&hide=contribs,prs) -->
+<img src = "https://github-readme-stats.vercel.app/api?username=luisguile&show_icons=true" alt = "luisguile" /> >
 
 <!--## Você pode me achar aqui: -->
 <!-- imgs de rede Social -->
