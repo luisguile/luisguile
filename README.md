@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## Em Construção 
 
 <p>
-Estudante em programação front-end
+Estudante de programação em front-end
 <br/>
 Dev Júnior não atuante
 </p>
