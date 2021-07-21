@@ -1,22 +1,34 @@
 ## Hello there👋
 
-<!--
-**luisguile/luisguile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 ## Em Construção 
 
 <p>
-Estudante de programação em front-end
+Estudante de programação front-end
 <br/>
 Dev Júnior não atuante
+<br/>
 </p>
-<!-- Github status --> 
 
-<!-- <img src = "https://github-readme-stats.vercel.app/api?username=luisguile&show_icons=true" alt = "luisguile" /> -->
+## Conhecimento básico em:
+<!-- tecnologias-->
+<span>
+<img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
 
-<!--## Você pode me achar aqui: -->
-<!-- imgs de rede Social -->
+<img src="https://img.icons8.com/color/96/000000/css3.png"/>
+</span>
+
+## Interessado em:
+
+<img src="https://img.icons8.com/ios/100/000000/react-native--v1.png"/>
+
+
+## Entre em contato comigo ✉️!!
+ <a href="mailto: guilerock.gl@gmail.com"> <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
+ </a>
+ 
+
+## Meu Status GitHub
+
+<img src = "https://github-readme-stats.vercel.app/api?username=luisguile&show_icons=true" alt = "luisguile" /> 
 
