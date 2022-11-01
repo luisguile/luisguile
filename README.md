@@ -15,7 +15,7 @@ Dev Júnior não atuante
 <span>
 <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
 
-<img src= ./awsbadge />
+<img src= ./aws-academy-graduate-aws-academy-cloud-foundations.png/>
  
  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
 </span>
