@@ -20,11 +20,11 @@ Dev Júnior não atuante
 
 ## Interessado em:
 
-<img src="https://img.icons8.com/ios/100/000000/react-native--v1.svg"/>
+<img src= ./reactblu.svg />
 
 
 ## Entre em contato comigo ✉️!!
- <a href="mailto: guilerock.gl@gmail.com"> <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
+ <a href="mailto: guiluih.1.10@gmail.com"> <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
  </a>
  
 
