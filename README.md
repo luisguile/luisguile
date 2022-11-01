@@ -20,7 +20,7 @@ Dev Júnior não atuante
 
 ## Interessado em:
 
-<img src="https://img.icons8.com/ios/100/000000/react-native--v1.png"/>
+<img src="https://img.icons8.com/ios/100/000000/react-native--v1.svg"/>
 
 
 ## Entre em contato comigo ✉️!!
