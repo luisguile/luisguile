@@ -15,9 +15,7 @@ Dev Júnior não atuante
 <span>
 <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
 
- 
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1b52943c-efac-4bea-8952-f1924e38c7d3" data-share-badge-host="https://www.credly.com" />
-
+<img src= ./awsbadge />
  
  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
 </span>
