@@ -28,7 +28,11 @@ Dev Júnior não atuante
 
 
 ## Entre em contato comigo ✉️!!
- <a href="mailto: guiluih.1.10@gmail.com"> <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
+ <a href="mailto: guiluih.1.10@gmail.com"> 
+ <h3>
+  email
+  <h3/>
+ <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
  </a>
  
 
