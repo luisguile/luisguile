@@ -14,11 +14,14 @@ Dev Júnior não atuante
 <!-- tecnologias-->
 <span>
 
-
+<a href="https://www.credly.com/badges/9b5d8c18-549a-4ebe-818d-3ddd9c586493/public_url">
+ <img src= ./aws-academy-graduate-aws-academy-cloud-foundations.png/>
+<a/>
  
 <a href="https://www.credly.com/badges/1b52943c-efac-4bea-8952-f1924e38c7d3/public_url"> 
  <img src= ./aws-academy-graduate-aws-academy-cloud-foundations.png/>
  <a/>
+ 
  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
  
  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
