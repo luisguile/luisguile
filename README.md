@@ -15,7 +15,7 @@ Dev Júnior não atuante
 <span>
 
 <a href="https://www.credly.com/badges/9b5d8c18-549a-4ebe-818d-3ddd9c586493/public_url">
- <img src= ./microsoft-certified-azure-ai-fundamentals.png/>
+ <img src= ./microsoft-certified-azure-ai-fundamentals(2).png/>
 <a/>
  
 <a href="https://www.credly.com/badges/1b52943c-efac-4bea-8952-f1924e38c7d3/public_url"> 
