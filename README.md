@@ -37,8 +37,3 @@ Dev Júnior não atuante
  <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
  </a>
  
-
-## Meu Status GitHub
-
-<img src = "https://github-readme-stats.vercel.app/api?username=luisguile&show_icons=true" alt = "luisguile" /> 
-
